@@ -1,0 +1,5 @@
+http://pymdptoolbox.readthedocs.org/en/latest/api/mdp.html
+
+https://github.com/studywolf/blog/tree/master/RL/Cat%20vs%20Mouse%20exploration
+
+https://inst.eecs.berkeley.edu/~cs188/sp12/projects/reinforcement/reinforcement.html
